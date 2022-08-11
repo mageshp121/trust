@@ -1,0 +1,28 @@
+.hey{
+    font-size: 18px;
+    align-items: center;
+    color: #007bff;
+}
+.hei{
+    size: 50px;
+}
+.fr{
+   margin-left: 20px;
+}
+.dp{
+    margin-top: 150px;
+}
+.rwe{
+    padding-left: 10px;
+}
+.ply{
+    margin-top: 8px;
+}
+.bgclr{
+    background-color: #f9fbfd;
+}
+.lgoclr{
+    color: #5a749a;
+}
+.list-group-flush .list-group-item:first-child {
+    border-top: 0; }
